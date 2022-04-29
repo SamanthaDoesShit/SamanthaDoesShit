@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamanthaDoesShit
 - 👀 I’m interested in Making Things, and showing it!
-- 🌱 I’m currently learning 3D Modeling and others
+- 🌱 I'm a 3D Moedeler and Coder, most of my projects will be in Lua :)
 - 📫 How to reach me Samantha Swaltatvi#4960 on Discord
 
 <!---
